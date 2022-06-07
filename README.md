@@ -1,1 +1,2 @@
-# rsschool-cv
+# [rsschool-cv](https://nor7hway.github.io/rsschool-cv/cv)
+https://nor7hway.github.io/rsschool-cv/
